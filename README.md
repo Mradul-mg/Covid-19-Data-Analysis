@@ -7,7 +7,7 @@ The project utilizes the following Python libraries:
 * Pandas
 * Matplotlib
 * Seaborn
-* Pyplot
+* Plotly
 
 # Tools Used 
 * Google Colab

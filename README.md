@@ -4,10 +4,10 @@ This project involves conducting an Exploratory Data Analysis (EDA) on the Covid
 # Tech Stack
 The project utilizes the following Python libraries:
 
-* Numpy
 * Pandas
 * Matplotlib
 * Seaborn
+* Pyplot
 
 # Tools Used 
 * Google Colab
